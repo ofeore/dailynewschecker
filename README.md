@@ -1,4 +1,4 @@
-# Daily News Checker 🗞️
+# Daily News Checker 
 
 Daily News Checker is a Node.js command-line tool that collects a daily snapshot of live information from multiple public websites.
 
